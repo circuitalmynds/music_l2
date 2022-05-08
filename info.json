@@ -1,5 +1,16 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "The Chemical Brothers - It Began in Afrika-PRC7zKfKomc.mp4",
+            "path": "music_l2/videos/The Chemical Brothers - It Began in Afrika-PRC7zKfKomc.mp4",
+            "size": 11.169592320000001
+        },
+        {
+            "name": "Mariya Takeuchi 竹内まりや    September LIVE 1980 Ultra HD version-HLBDFXX23ao.mp4",
+            "path": "music_l2/videos/Mariya Takeuchi 竹内まりや    September LIVE 1980 Ultra HD version-HLBDFXX23ao.mp4",
+            "size": 13.038892032000001
+        }
+    ],
+    "total_size": 24.208484352000003
 }
