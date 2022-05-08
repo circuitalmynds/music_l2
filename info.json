@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Baden Powell - Poema On Guitar - 1968 - Full Album-I6I2_FK5DDg.mp4",
+            "path": "music_l2/videos/Baden Powell - Poema On Guitar - 1968 - Full Album-I6I2_FK5DDg.mp4",
+            "size": 34.934402048
+        },
+        {
             "name": "The Chemical Brothers - It Began in Afrika-PRC7zKfKomc.mp4",
             "path": "music_l2/videos/The Chemical Brothers - It Began in Afrika-PRC7zKfKomc.mp4",
             "size": 11.169592320000001
@@ -32,5 +37,5 @@
             "size": 22.464683008
         }
     ],
-    "total_size": 151.49279232000004
+    "total_size": 186.42719436800002
 }
